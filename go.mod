@@ -19,8 +19,7 @@ require (
 	github.com/influxdata/influxdb v1.8.4
 	github.com/influxdata/influxql v1.1.1-0.20200828144457-65d3ef77d385
 	github.com/klauspost/compress v1.11.12
-	github.com/prometheus/client_golang v1.10.0
-	github.com/prometheus/common v0.19.0 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/tinylib/msgp v1.1.5
 	github.com/tricksterproxy/mockster v1.1.1
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
@@ -32,10 +31,9 @@ require (
 	go.opentelemetry.io/otel/exporters/trace/zipkin v0.19.0
 	go.opentelemetry.io/otel/sdk v0.19.0
 	go.opentelemetry.io/otel/trace v0.19.0
-	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
-	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
+	golang.org/x/net v0.23.0
 	google.golang.org/api v0.42.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
